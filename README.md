@@ -1,0 +1,1 @@
+This is a group project that me and my friends coded to learn database systems. In this process we used mysql and to code front-end and back-end HTML, CSS and JavaScript were learnt. "report.pdf" document contains the details about the project.
